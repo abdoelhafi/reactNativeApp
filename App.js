@@ -7,7 +7,7 @@ import Goal from './components/Goal'
 export default function App() {
   const [goals,setGoals] = useState([]);
   const [newGoal,setNewGoal] = useState('');
-
+// hello here
   
   return (
     <View style={styles.container}>
